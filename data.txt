@@ -1,0 +1,2 @@
+Hello Marcus, this is a simple GitHub Actions test file.
+It will be used to count vowel frequency.
